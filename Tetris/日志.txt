@@ -1,0 +1,174 @@
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 行
+LogBlueprintUserMessages: [BP_Tetris_C_0] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_0] 向下移动失败
+LogBlueprintUserMessages: [BP_Tetris_C_0] X=0.000 Y=2.000
+LogBlueprintUserMessages: [BP_Tetris_C_0] X=0.000 Y=3.000
+LogBlueprintUserMessages: [BP_Tetris_C_0] X=0.000 Y=1.000
+LogBlueprintUserMessages: [BP_Tetris_C_0] X=0.000 Y=-0.000
+LogBlueprintUserMessages: [BP_Tetris_C_0] 移动到Grid结束
+LogBlueprintUserMessages: [BP_Tetris_C_0] 获取满行索引结束
+LogBlueprintUserMessages: [BP_Tetris_C_0] 移除满行结束
+LogBlueprintUserMessages: [BP_Tetris_C_0] 没有满行准备检测GameOver
+LogBlueprintUserMessages: [BP_Tetris_C_0] 检查GameOver结束
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] true true true true false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 行
+LogBlueprintUserMessages: [BP_Tetris_C_1] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_1] 向下移动失败
+LogBlueprintUserMessages: [BP_Tetris_C_1] X=1.000 Y=6.000
+LogBlueprintUserMessages: [BP_Tetris_C_1] X=1.000 Y=7.000
+LogBlueprintUserMessages: [BP_Tetris_C_1] X=1.000 Y=5.000
+LogBlueprintUserMessages: [BP_Tetris_C_1] X=1.000 Y=4.000
+LogBlueprintUserMessages: [BP_Tetris_C_1] 移动到Grid结束
+LogBlueprintUserMessages: [BP_Tetris_C_1] 获取满行索引结束
+LogBlueprintUserMessages: [BP_Tetris_C_1] 移除满行结束
+LogBlueprintUserMessages: [BP_Tetris_C_1] 没有满行准备检测GameOver
+LogBlueprintUserMessages: [BP_Tetris_C_1] 检查GameOver结束
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] true true true true false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false true false true true true false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 行
+LogBlueprintUserMessages: [BP_Tetris_C_2] false false false false false false false false false false 
+LogBlueprintUserMessages: [BP_Tetris_C_2] 向下移动失败
+LogBlueprintUserMessages: [BP_Tetris_C_2] X=3.000 Y=3.000
+LogBlueprintUserMessages: [BP_Tetris_C_2] X=4.000 Y=3.000
+LogBlueprintUserMessages: [BP_Tetris_C_2] X=2.000 Y=3.000
+LogBlueprintUserMessages: [BP_Tetris_C_2] X=3.000 Y=4.000
+LogBlueprintUserMessages: [BP_Tetris_C_2] 移动到Grid结束
+LogBlueprintUserMessages: [BP_Tetris_C_2] 获取满行索引结束
+LogBlueprintUserMessages: [BP_Tetris_C_2] 移除满行结束
+LogBlueprintUserMessages: [BP_Tetris_C_2] 没有满行准备检测GameOver
+LogBlueprintUserMessages: [BP_Tetris_C_2] 检查GameOver结束
+LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
